@@ -1,3 +1,3 @@
-#*DevOps Crash Course Lab*
+# *DevOps Crash Course Lab*
 
 **Danylo Reznyk**
